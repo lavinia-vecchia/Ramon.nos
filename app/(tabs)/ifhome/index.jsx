@@ -15,7 +15,7 @@ const IFome = () => {
         },
         {
             id: '2',
-            nome: 'Coxinha da taninh',
+            nome: 'Coxinha da taninha',
             descricao: 'tânia lanchonete',
             preco: 'R$ 6,50',
             imagem: require('../../assets/images/IFome/Coxinha.png'), 
